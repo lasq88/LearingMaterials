@@ -25,7 +25,7 @@
 * https://www.crowdstrike.com/blog/
 * https://blog.sekoia.io/
 * https://www.trellix.com/about/newsroom/stories/research/
-* https://www.kaspersky.com/blog/
+* https://securelist.com/
 
 ## Personal blogs:
 
