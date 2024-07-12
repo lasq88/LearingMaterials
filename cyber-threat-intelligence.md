@@ -13,6 +13,7 @@ This is a repository of training materials and interesting reads for everything 
 # Courses (paid and free)
 
 * Hunting Adversary Infrastructure (paid) - https://academy.intel-ops.io/courses/hunting-adversary-infra
+* Investigation Theory Training (paid) - https://chrissanders.org/training/investigationtheory/
 
 # Links
 
