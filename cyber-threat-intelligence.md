@@ -82,6 +82,7 @@ This is a repository of training materials and interesting reads for everything 
 * counterintelligence.pl by Kamil Bojarski (@lawsecnet) - https://counterintelligence.pl/en/
 * Michael Koczwara's Medium - https://michaelkoczwara.medium.com/
 * Embee Research - https://www.embeeresearch.io/
+* Doublepulsar by Kevin Beaumont - https://doublepulsar.com/
 
 ### Vendor blogs
 
