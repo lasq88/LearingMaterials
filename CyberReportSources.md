@@ -35,8 +35,8 @@
 
 ## Personal blogs:
 
-* https://www.zetter-zeroday.com/ - by Kim Zetter, redactor of Wired
-* https://doublepulsar.com/ - by Kevin Beaumont
+* Kim Zetter, redactor of Wired - https://www.zetter-zeroday.com/
+* Doublepulsar by Kevin Beaumont - https://doublepulsar.com/
 * counterintelligence.pl by Kamil Bojarski (@lawsecnet) - https://counterintelligence.pl/en/
 * Michael Koczwara's Medium - https://michaelkoczwara.medium.com/
 * Embee Research - https://www.embeeresearch.io/
