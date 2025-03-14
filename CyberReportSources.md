@@ -25,6 +25,7 @@
 * Sekoia - https://blog.sekoia.io/
 * Trellix - https://www.trellix.com/about/newsroom/stories/research/
 * Kaspersky - https://securelist.com/
+* Lumen - https://blog.lumen.com/
 
 ## Yearly reports (google name with current year to find current interation) 
 
