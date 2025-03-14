@@ -9,6 +9,10 @@
 * https://www.wired.com/ (not really a news site but they publish great cyber-related stories)
 * https://krebsonsecurity.com/
 * https://threatpost.com/
+* https://www.darkreading.com/
+* https://www.securityweek.com/
+* https://thehackernews.com/
+* https://www.theregister.com/
 
 ## Vendor blogs:
 
@@ -23,9 +27,19 @@
 * The DFIR Report-  https://thedfirreport.com/
 * Crowdstrike https://www.crowdstrike.com/blog/
 * Sekoia - https://blog.sekoia.io/
-* Trellix - https://www.trellix.com/about/newsroom/stories/research/
+* Trellix - https://www.trellix.com/blogs/research/
 * Kaspersky - https://securelist.com/
-* Lumen - https://blog.lumen.com/
+* Lumen BlackLotus Labs - https://blog.lumen.com/author/black-lotus-labs/
+* Volexity - https://www.volexity.com/blog/
+* Virus Total - https://blog.virustotal.com/
+* Intezer - https://intezer.com/blog/
+* Qualys - https://blog.qualys.com/
+* Intel471 - https://intel471.com/blog
+* Fox-IT - https://blog.fox-it.com/
+* Juniper - https://blogs.juniper.net/threat-research
+* Elastic - https://www.elastic.co/security-labs
+* Avast - https://decoded.avast.io/
+* BlackBerry - https://blogs.blackberry.com/en/home
 
 ## Yearly reports (google name with current year to find current interation) 
 
@@ -41,6 +55,14 @@
 * counterintelligence.pl by Kamil Bojarski (@lawsecnet) - https://counterintelligence.pl/en/
 * Michael Koczwara's Medium - https://michaelkoczwara.medium.com/
 * Embee Research - https://www.embeeresearch.io/
+* Bushido Token - https://blog.bushidotoken.net/
+
+## Podcasts
+
+* Three Buddy Problem - https://podcasts.apple.com/us/podcast/three-buddy-problem/id1414525622
+* Darknet Diaries - https://podcasts.apple.com/sg/podcast/darknet-diaries/id1296350485
+* Microsoft Threat Intelligence Podcast - https://podcasts.apple.com/sg/podcast/microsoft-threat-intelligence-podcast/id1710656242
+* The Defender's Advantage Podcast - https://podcasts.apple.com/sg/podcast/the-defenders-advantage-podcast/id1073779629
 
 ## Other aggregators, and stuff:
 
